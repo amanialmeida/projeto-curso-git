@@ -2,4 +2,4 @@
 
 Atividades do Bootcmap, da comunidade Digital Innovation One.
 
-Contéudo - GIT E GUITHUB
+Conteúdo -  Introdução GIT E GITHUB.
